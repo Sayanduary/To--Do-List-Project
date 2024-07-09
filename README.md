@@ -2,7 +2,7 @@ To-Do List Application
 This is a simple and intuitive To-Do List application built using HTML, CSS, and JavaScript. It allows users to manage their tasks efficiently by adding, deleting, and marking tasks as completed.
 
 Features
-Add Tasks: Easily add new tasks to your list.
+Add Tasks: Easily add new tasks to your list.<br>
 Delete Tasks: Remove tasks that are no longer needed.
 Mark as Completed: Mark tasks as completed to keep track of your progress.
 Persistent Data: Your tasks are stored in the browser's local storage, so they remain even after you close the browser.
